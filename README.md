@@ -5,7 +5,7 @@
 - [Snake Game using Ebiten UI Engine and WebAssembly](https://napat.github.io/golang_2d_snake_game/)
 - [Integration tests using Testcontainers for Go](https://github.com/Napat/golang-testcontainers-demo)
 - [End-to-End Observability with Golang, OpenTelemetry, and Grafana Stack (Alloy, Loki, Mimir, Tempo, Pyroscope)](https://github.com/Napat/go-alloy-observability)
-- [Real-time SSE Dashboard using Golang as a Server]([https://github.com/Napat/go-alloy-observability](https://github.com/Napat/go-sse-sensor-dashboard-demo))
+- [Real-time SSE Dashboard using Golang as a Server](https://github.com/Napat/go-sse-sensor-dashboard-demo)
 - [Go basic concept](https://github.com/Napat/go_concept)
 - [Kafka priority consumers demo](https://github.com/Napat/golang-kafka-consumers-offsetmanager)
 - [Go commandline using cobra](https://github.com/Napat/golang-cli-cobra-sample)
