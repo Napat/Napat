@@ -29,6 +29,7 @@
 
 ## AI
 
+- [MCP Server using Golang](https://github.com/Napat/mcpserver-demo)
 - [Ollama DeepSeek: Local AI Chatbot Demo](https://github.com/Napat/deepseek-stack)
 
 <!--
