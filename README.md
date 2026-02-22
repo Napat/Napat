@@ -10,6 +10,8 @@
 - [Kafka priority consumers demo](https://github.com/Napat/golang-kafka-consumers-offsetmanager)
 - [Go commandline using cobra](https://github.com/Napat/golang-cli-cobra-sample)
 - [Go concept](https://github.com/Napat/go_concept)
+- [Go test: Fast-forward time travel](https://github.com/Napat/go-testtime-fastforward)
+- [Golang Custom Validation & regexp.MustCompile Performance Tuning](https://github.com/Napat/go-custom-validate)
 
 ## C
 
