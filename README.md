@@ -18,7 +18,12 @@
 - [C Concept](https://github.com/Napat/c_concept)
 
 ## K6
+
 - [K6 Concept](https://github.com/Napat/k6_loadtest)
+
+## Chrome Extensions
+
+- [ROLE: ROO OpenSearch Log Explorer](https://github.com/Napat/roo-opensearch-log-explorer)
 
 ## Docker / Container
 
